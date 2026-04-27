@@ -1,0 +1,6 @@
+/* App-level overrides — keep minimal so the dark portfolio aesthetic is consistent. */
+.App {
+  background-color: hsl(var(--bg));
+  color: hsl(var(--text));
+  min-height: 100vh;
+}
