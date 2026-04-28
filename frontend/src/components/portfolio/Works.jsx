@@ -5,28 +5,28 @@ const PROJECTS = [
   {
     title: "Automotive Motion",
     image:
-      "https://images.unsplash.com/photo-1542362567-b07e54358753?w=1400&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=1400&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2Fyc3xlbnwwfHwwfHx8MA%3D%3D",
     span: "md:col-span-7",
     aspect: "aspect-[16/10]",
   },
   {
     title: "Urban Architecture",
     image:
-      "https://images.unsplash.com/photo-1503387762-592deb58ef4e?w=1200&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1488972685288-c3fd157d7c7a?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGl0ZWN0dXJlfGVufDB8fDB8fHww",
     span: "md:col-span-5",
     aspect: "aspect-[4/5]",
   },
   {
     title: "Human Perspective",
     image:
-      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=1200&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1485518882345-15568b007407?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fGZhc2hpb258ZW58MHx8MHx8fDA%3D",
     span: "md:col-span-5",
     aspect: "aspect-[4/5]",
   },
   {
     title: "Brand Identity",
     image:
-      "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=1400&q=80&auto=format&fit=crop",
+      "https://images.unsplash.com/photo-1609004159066-9932829085ec?w=1200&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTA3fHxicmFuZCUyMGlkZW50aXR5fGVufDB8fDB8fHww",
     span: "md:col-span-7",
     aspect: "aspect-[16/10]",
   },

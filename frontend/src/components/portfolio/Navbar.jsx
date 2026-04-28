@@ -58,11 +58,11 @@ export default function Navbar() {
           onClick={(e) => handleNav(e, "#home")}
           data-testid="nav-logo"
           className="group relative w-9 h-9 rounded-full p-[1.5px] transition-transform duration-300 hover:scale-110"
-          aria-label="JA Home"
+          aria-label="MS Home"
         >
           <span className="absolute inset-0 rounded-full accent-gradient transition-transform duration-500 group-hover:rotate-180" />
           <span className="relative z-10 flex items-center justify-center w-full h-full rounded-full bg-bg text-text-primary font-display italic text-[13px] leading-none">
-            JA
+            MS
           </span>
         </a>
 
